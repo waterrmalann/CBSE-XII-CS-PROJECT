@@ -1,5 +1,5 @@
-# 🔒 XII Computer Science Project
-## Password Manager (Python + MySQL)
+# CBSE XII Computer Science Project
+## 🔒 Password Manager (Python + MySQL)
 
 # [Documentation Template](documentation.pdf)
 **This project was made in fulfillment of the requirements for appearing in AISSCE.**
@@ -21,7 +21,7 @@ A dead-simple terminal based password manager written in Python using MySQL for 
 1. [Clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository). (I recommend creating a virtual environment)
 
 ```sh
-git clone https://github.com/waterrmalann/CS-XII-PROJECT.git
+git clone https://github.com/waterrmalann/CBSE-XII-CS-PROJECT.git
 ```
 
 2. Install the requirements.txt.
