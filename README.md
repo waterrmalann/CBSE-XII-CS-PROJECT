@@ -1,7 +1,7 @@
 # 🔒 XII Computer Science Project
 ## Password Manager (Python + MySQL)
 
-# [Documentation Template](https://docs.google.com/document/d/e/2PACX-1vS8aR54Pn6zqkXuNhGuTZ-b1NehC_ivB0eoZaWt1URwKcxgX5dSsLiSqoSgs_TMQRguqFYpgoCnZT91/pub)
+# [Documentation Template](documentation.pdf)
 **This project was made in fulfillment of the requirements for appearing in AISSCE.**
 
 A dead-simple terminal based password manager written in Python using MySQL for database. Passwords are encrypted with AES-256 using a master password for secure storage and retrieved by copying to the user's clipboard.
