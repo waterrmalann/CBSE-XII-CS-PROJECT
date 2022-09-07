@@ -41,7 +41,7 @@ python program.py
 
 ### ⚠️ Word of Warning
 
-Since this program was made for the mere submission as a CS Project and nothing more, very little effort was put into making it an usable piece of software. The cryptographic functions were hastily implemented and therefore may be extremely insecure and contain vulnerabilities. It is highly advised that you do not use this as your personal password manager unless you know what you are doing.
+Since this program was made for the mere submission as a CS Project and nothing more, very little effort was put into making it an usable piece of software. The cryptographic functions were hastily implemented and therefore may be extremely insecure and contain vulnerabilities. It is highly advised that you do not use this as your personal password manager unless you know what you are doing. If you really wish to use this password manager, you should check out [**pazz**](https://github.com/waterrmalann/pazz) which is a more secure, partial rewrite of this project using SQLite.
 
 License
 ----
