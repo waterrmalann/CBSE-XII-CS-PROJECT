@@ -31,7 +31,7 @@ python -m pip install -r requirements.txt
 ```
 
 3. [Download and install MySQL 8.0](https://dev.mysql.com/downloads/windows/installer/8.0.html)
-4. Replace 'user' and 'password' parameters from lines 17 and 18 in [program.py](program.py) with your MySQL username and password.
+4. Replace 'user' and 'password' parameters from lines 17 and 18 in [program.py](program.py#L17-L18) with your MySQL username and password.
 5. Run the project.
 ```sh
 python program.py
