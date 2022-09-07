@@ -315,9 +315,9 @@ def menu_showEdit():
                 print("Successfully edited entry.")
                 break
             else:
-                break
+                print("{ERROR} Invalid ID: Out of range.\n")
         else:
-            print("{ERROR} Invalid ID: Not an integer.\n")
+            break
             
     pause("\n  << Back [press any key]")
     menu_showMain()
